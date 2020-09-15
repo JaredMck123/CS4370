@@ -1,0 +1,61 @@
+body {
+  color: white;
+  background-image: url("./photo-1464983953574-0892a716854b.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 10px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+img {
+  height: 450px;
+  width: 420px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: center;
+}
+
+span {
+  color: red;
+  font-weight: bold;
+}
+a {
+  color: white;
+}
+
+a:visited,
+a:active {
+  color: white;
+}
+a:hover {
+  color: rgb(0, 183, 255);
+  font-size: 20px;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(36, 35, 35);
+}
+tr:nth-child(odd) {
+  background-color: #888888;
+}
+
+tr,
+td {
+  width: 200px;
+  height: 50px;
+}
+
+li {
+  font-size: 20px;
+}

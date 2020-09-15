@@ -1,0 +1,2 @@
+Homepage: https://codd.cs.gsu.edu/~jmckinney21/hw/index.html
+Stylesheet: https://codd.cs.gsu.edu/~jmckinney21/hw/style.css
